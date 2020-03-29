@@ -1,5 +1,5 @@
 def main():
-   print("Hello world.")
+   print("Hi,how you doing?")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
